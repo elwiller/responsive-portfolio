@@ -1,0 +1,26 @@
+* {
+  text-decoration: none;
+}
+nav {
+  border-bottom: 1px solid grey;
+}
+
+h1.navbar-brand {
+  background-color: royalblue;
+  color: whitesmoke;
+  font-family: "Bookman Old Style", "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px 30px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: whitesmoke;
+  background-color: grey;
+  text-align: center;
+  border-top: solid 3px royalblue;
+}
