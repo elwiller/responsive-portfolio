@@ -22,7 +22,7 @@ h1.navbar-brand {
   border: 1px solid grey;
 }
 
-.form-group .form-control {
+form {
   width: 100%;
 }
 
