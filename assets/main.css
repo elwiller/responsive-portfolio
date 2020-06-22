@@ -14,7 +14,8 @@ h1.navbar-brand {
   text-align: center;
   padding: 20px 30px;
 }
-.container {
+.container,
+.card {
   background-color: whitesmoke;
   position: relative;
   top: 250px;
