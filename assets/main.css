@@ -14,6 +14,29 @@ h1.navbar-brand {
   text-align: center;
   padding: 20px 30px;
 }
+.container {
+  background-color: whitesmoke;
+  position: relative;
+  top: 250px;
+  border: 1px solid grey;
+}
+
+.container h1 {
+  color: royalblue;
+  font-family: "Bookman Old Style", "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.container p {
+  color: grey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#me {
+  position: relative;
+  width: 450px;
+}
 
 .footer {
   position: fixed;
