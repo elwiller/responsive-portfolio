@@ -22,11 +22,16 @@ h1.navbar-brand {
   border: 1px solid grey;
 }
 
+.form-group .form-control {
+  width: 100%;
+}
+
 .container h1 {
   color: royalblue;
   font-family: "Bookman Old Style", "Times New Roman", serif;
   font-weight: bold;
   font-size: 30px;
+  border-bottom: 1px double grey;
 }
 
 .container p {
