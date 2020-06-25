@@ -4,6 +4,9 @@
 nav {
   border-bottom: 1px solid grey;
 }
+nav img {
+  margin-right: 20px;
+}
 
 h1.navbar-brand {
   background-color: royalblue;
@@ -12,7 +15,7 @@ h1.navbar-brand {
   font-weight: bold;
   font-size: 30px;
   text-align: center;
-  padding: 20px 30px;
+  padding: 20px;
 }
 .container,
 .card {
