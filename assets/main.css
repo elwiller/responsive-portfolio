@@ -49,6 +49,7 @@ form {
 .footer {
   /* position: fixed; */
   bottom: 0;
+  position: fixed;
   width: 100%;
   color: whitesmoke;
   background-color: grey;
